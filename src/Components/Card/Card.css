@@ -1,0 +1,17 @@
+.card {
+  border: 3px solid pink;
+  border-radius: 4px;
+  display: inline-block;
+  width: 75%;
+  height: 30vh;
+  margin: 10px;
+  padding: 10px;
+}
+
+.card-contents {
+  display: block;
+}
+
+.card-title {
+  display: flex;
+}
